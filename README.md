@@ -31,11 +31,7 @@ Du skal bygge en interaktiv quiz-applikation, hvor brugeren kan vælge kategori 
 - Brug farver og ikoner til at gøre quizzen mere engagerende.
 - Giv visuel feedback på rigtige og forkerte svar.
 
-## Ekstra udfordringer (valgfrit)
-- Tilføj en timer til hvert spørgsmål.
-- Gem high scores i localStorage.
-- Tilføj en loading-animation mens spørgsmålene hentes.
-- Lav en dark mode.
+
 
 ## API Info
 Eksempel på API-kald:
